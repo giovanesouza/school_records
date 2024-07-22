@@ -13,7 +13,7 @@ function createSubject(subjectId, subjectName) {
         average: 0,
         absence: 0,
         approved: false,
-        status: "Aguardando lançamento de notas"
+        status: "matriculado"
     };
 }
 
