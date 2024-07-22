@@ -43,19 +43,23 @@ Este é um sistema de gerenciamento de alunos desenvolvido em JavaScript, no amb
 
 ```js
 [
-    academicRecord: "",
-    studentName: "",
-    subjects: [
-        subjectId: "",
-        subjectName: "",
-        grades: [],
-        workload: 80,
-        minWorkload: 80 * 0.7,
-        average: 0,
-        absence: 0,
-        approved: false,
-        status: "matriculado"
-    ]
+    {
+        academicRecord: "",
+        studentName: "",
+        subjects: [
+            {
+                subjectId: "",
+                subjectName: "",
+                grades: [],
+                workload: 80,
+                minWorkload: 80 * 0.7,
+                average: 0,
+                absence: 0,
+                approved: false,
+                status: "matriculado"
+            }
+        ]
+    }
 ]
 ```
 
