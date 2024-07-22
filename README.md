@@ -76,4 +76,4 @@ npm run start:dev
 
 ## ✅ Resultados obtidos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-m11spHLhIk?si=o5pEm2b5kESIVYyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Assista ao vídeo](https://img.youtube.com/vi/-m11spHLhIk/maxresdefault.jpg)](https://www.youtube.com/watch?v=-m11spHLhIk)
